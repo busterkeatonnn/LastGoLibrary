@@ -2500,3 +2500,981 @@
   "status": 200,
   "time": "2025-06-30T17:20:41Z"
 }
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:01:28Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:01:28Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:01:28Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 1,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 767.644µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:01:45Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 415.522µs",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:01:45Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 2,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 1.556659ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:01:45Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 438.478µs",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:01:45Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 314.864µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:01:45Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET / 404 2.007µs",
+  "path": "/",
+  "status": 404,
+  "time": "2025-06-30T18:02:14Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET /favicon.ico 404 2.582µs",
+  "path": "/favicon.ico",
+  "status": 404,
+  "time": "2025-06-30T18:02:15Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET / 404 1.938µs",
+  "path": "/",
+  "status": 404,
+  "time": "2025-06-30T18:02:24Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET /favicon.ico 404 1.986µs",
+  "path": "/favicon.ico",
+  "status": 404,
+  "time": "2025-06-30T18:02:25Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 146.029µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:02:50Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 72,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 71.713732ms",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:02:51Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 343,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 343.075978ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:02:51Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 142,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 141.705106ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:02:51Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 200 57.488µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 200,
+  "time": "2025-06-30T18:02:52Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 465.925µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:02:52Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 211.051µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:02:59Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 18,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 17.760531ms",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:02:59Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 19,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 19.479125ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:02:59Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 35,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 35.371345ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:02:59Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 269.384µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:02:59Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "db96c81b98d6",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 200 78.08µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 200,
+  "time": "2025-06-30T18:02:59Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 291.941µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:03:08Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 17,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 17.057908ms",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:03:08Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 18,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 17.600799ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:03:08Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 40,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 39.982114ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:03:08Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 429.163µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:03:08Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "ccc91d0f33fb",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 200 43.257µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 200,
+  "time": "2025-06-30T18:03:08Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 341.025µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:03:20Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 16,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 15.750463ms",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:03:20Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 28,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 27.559561ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:03:20Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 40,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 40.17775ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:03:20Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 423.599µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:03:20Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "1e4f92f4979e",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 200 48.256µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 200,
+  "time": "2025-06-30T18:03:20Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:05:24Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:05:24Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:05:24Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "19d0a6a8f1cd",
+  "latency": 1,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 1.273861ms",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:05:29Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "19d0a6a8f1cd",
+  "latency": 13,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 12.933801ms",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:05:29Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "19d0a6a8f1cd",
+  "latency": 28,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 27.752339ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:05:29Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "19d0a6a8f1cd",
+  "latency": 45,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 44.554097ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:05:29Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "19d0a6a8f1cd",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 396.169µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:05:29Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "19d0a6a8f1cd",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 200 66.356µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 200,
+  "time": "2025-06-30T18:05:29Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:10:55Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:10:55Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T18:10:55Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 334.971µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:11:01Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 20,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 19.791878ms",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:11:01Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 16,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 15.52998ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:11:01Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 49,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 48.574696ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:11:01Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 413.328µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:11:01Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 200 73.008µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 200,
+  "time": "2025-06-30T18:11:01Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 2,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /api/books 200 1.958983ms",
+  "path": "/api/books",
+  "status": 200,
+  "time": "2025-06-30T18:11:34Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 1,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /api/books 200 1.078821ms",
+  "path": "/api/books",
+  "status": 200,
+  "time": "2025-06-30T18:11:39Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 94.837µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:11:49Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 304 37.931µs",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 304,
+  "time": "2025-06-30T18:11:49Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 304 18.983µs",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 304,
+  "time": "2025-06-30T18:11:49Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 304 27.4µs",
+  "path": "/swagger/swagger-ui.css",
+  "status": 304,
+  "time": "2025-06-30T18:11:49Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 421.779µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:11:49Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 304 29.597µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 304,
+  "time": "2025-06-30T18:11:49Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 317.734µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T18:11:55Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 360.251µs",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T18:11:55Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 1,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 1.068302ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T18:11:55Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 2,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 1.527656ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T18:11:55Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 300.244µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T18:11:55Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "warning",
+  "method": "POST",
+  "msg": "POST /api/books 400 142.502µs",
+  "path": "/api/books",
+  "status": 400,
+  "time": "2025-06-30T18:11:59Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 14,
+  "level": "info",
+  "method": "POST",
+  "msg": "POST /api/books 201 14.367223ms",
+  "path": "/api/books",
+  "status": 201,
+  "time": "2025-06-30T18:12:25Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 3,
+  "level": "error",
+  "method": "POST",
+  "msg": "POST /api/books 500 2.932448ms",
+  "path": "/api/books",
+  "status": 500,
+  "time": "2025-06-30T18:12:26Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 2,
+  "level": "error",
+  "method": "POST",
+  "msg": "POST /api/books 500 1.868724ms",
+  "path": "/api/books",
+  "status": 500,
+  "time": "2025-06-30T18:12:26Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 1,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /api/books 200 699.752µs",
+  "path": "/api/books",
+  "status": 200,
+  "time": "2025-06-30T18:12:29Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 1,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /api/books 200 1.074827ms",
+  "path": "/api/books",
+  "status": 200,
+  "time": "2025-06-30T18:12:30Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 1.717µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:07Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 1.582µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:07Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 2.252µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:07Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 1.908µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:07Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 1.524µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:07Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 2.125µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:08Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 1.553µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:08Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 1.847µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:08Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "3d0ea1ead537",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 2.262µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:08Z"
+}
+{
+  "client_ip": "185.225.35.180",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "warning",
+  "method": "HEAD",
+  "msg": "HEAD /api/books 404 2.091µs",
+  "path": "/api/books",
+  "status": 404,
+  "time": "2025-06-30T18:15:08Z"
+}
+{
+  "client_ip": "188.232.40.190",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET / 404 1.402µs",
+  "path": "/",
+  "status": 404,
+  "time": "2025-06-30T18:21:44Z"
+}
+{
+  "client_ip": "188.232.40.190",
+  "errors": "",
+  "hostname": "930175b4c9b4",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET / 404 1.5µs",
+  "path": "/",
+  "status": 404,
+  "time": "2025-06-30T18:21:44Z"
+}
+{
+  "client_ip": "149.86.227.49",
+  "errors": "",
+  "hostname": "7c36ebeb52ad",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET / 404 1.484µs",
+  "path": "/",
+  "status": 404,
+  "time": "2025-06-30T18:26:31Z"
+}
