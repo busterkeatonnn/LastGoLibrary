@@ -15,7 +15,7 @@ import (
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
 
-	// Вместо абсолютных путей используем относительные
+	// Вместо абсолютных путей используем относительные 
 	"library/app/config"
 	"library/app/db"
 	"library/app/handlers"

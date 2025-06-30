@@ -2326,3 +2326,177 @@
   "status": 200,
   "time": "2025-06-06T23:04:10Z"
 }
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T16:51:49Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T16:51:49Z"
+}
+{
+  "level": "info",
+  "msg": "Запуск сервера",
+  "port": "8080",
+  "time": "2025-06-30T16:51:49Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "704c208f6484",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET / 404 3.131µs",
+  "path": "/",
+  "status": 404,
+  "time": "2025-06-30T17:12:27Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "5a39804b2e9b",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET /favicon.ico 404 2.819µs",
+  "path": "/favicon.ico",
+  "status": 404,
+  "time": "2025-06-30T17:12:27Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "e92105445650",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET /books 404 2.727µs",
+  "path": "/books",
+  "status": 404,
+  "time": "2025-06-30T17:12:37Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "704c208f6484",
+  "latency": 4,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /api/books 200 3.656687ms",
+  "path": "/api/books",
+  "status": 200,
+  "time": "2025-06-30T17:12:41Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "e92105445650",
+  "latency": 0,
+  "level": "warning",
+  "method": "GET",
+  "msg": "GET /swagger/ 404 80.358µs",
+  "path": "/swagger/",
+  "status": 404,
+  "time": "2025-06-30T17:12:52Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "704c208f6484",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/index.html 200 352.776µs",
+  "path": "/swagger/index.html",
+  "status": 200,
+  "time": "2025-06-30T17:13:12Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "5a39804b2e9b",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui.css 200 364.513µs",
+  "path": "/swagger/swagger-ui.css",
+  "status": 200,
+  "time": "2025-06-30T17:13:12Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "704c208f6484",
+  "latency": 2,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-bundle.js 200 1.727397ms",
+  "path": "/swagger/swagger-ui-bundle.js",
+  "status": 200,
+  "time": "2025-06-30T17:13:12Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "e92105445650",
+  "latency": 3,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/swagger-ui-standalone-preset.js 200 3.058174ms",
+  "path": "/swagger/swagger-ui-standalone-preset.js",
+  "status": 200,
+  "time": "2025-06-30T17:13:12Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "5a39804b2e9b",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/doc.json 200 334.135µs",
+  "path": "/swagger/doc.json",
+  "status": 200,
+  "time": "2025-06-30T17:13:13Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "e92105445650",
+  "latency": 0,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /swagger/favicon-32x32.png 200 63.561µs",
+  "path": "/swagger/favicon-32x32.png",
+  "status": 200,
+  "time": "2025-06-30T17:13:13Z"
+}
+{
+  "client_ip": "83.217.9.111",
+  "errors": "",
+  "hostname": "704c208f6484",
+  "latency": 19,
+  "level": "info",
+  "method": "POST",
+  "msg": "POST /api/books 201 18.653718ms",
+  "path": "/api/books",
+  "status": 201,
+  "time": "2025-06-30T17:18:19Z"
+}
+{
+  "client_ip": "46.242.11.95",
+  "errors": "",
+  "hostname": "5a39804b2e9b",
+  "latency": 1,
+  "level": "info",
+  "method": "GET",
+  "msg": "GET /api/books 200 1.205223ms",
+  "path": "/api/books",
+  "status": 200,
+  "time": "2025-06-30T17:20:41Z"
+}
